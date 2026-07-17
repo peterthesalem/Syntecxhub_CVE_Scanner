@@ -1,0 +1,2 @@
+[2026-07-17 09:00:54] Target: localhost:80 | Banner: Could not grab banner: timed out | Severity: Unknown
+[2026-07-17 09:01:14] Target: localhost:22 | Banner: SSH-2.0-OpenSSH_10.3p1 Debian-4 | Severity: Informational
